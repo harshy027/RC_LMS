@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello , Welcome to RC LMS!</string>
+	<string name="app_name">RC_LMS</string>
+	<string name="user">hrastogi@rc.com</string>
+	<string name="user_pswrd">hr027</string>
+
+
+</resources>
